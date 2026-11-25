@@ -9,6 +9,7 @@ a note on how it was made, where we stopped, and how to run it with the organise
 | [Prediction Market](prediction-market/) | 112.850308 mean edge, 200 of 200 seeds (19 Nov 2026) | `strategy.py` |
 | [Quantum Error Correction](quantum-error-correction/) | 612 errors in 240,000 shots (19 Nov 2026) | `solve.py` |
 | [Anthropic's take-home](take-home/) | 861 cycles (24 Nov 2026) | `perf_takehome.py` |
+| [Prop AMM](prop-amm/) | 1,020.75 average edge, 991 of 1,000 simulations won (25 Nov 2026) | `lib.rs` |
 | [Negotiation](negotiation/) | 1.0, ten games of ten, 1,797 characters (10 Nov 2026) | `prompt.txt` |
 | [Persuasion](persuasion/) | $200 median price, 135 characters (13 Nov 2026) | `description.txt` |
 | [Dogfight](dogfight/) | 60 matches won of 60, all by elimination (19 Nov 2026) | `pilot.onnx` |
