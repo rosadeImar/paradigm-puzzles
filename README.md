@@ -23,5 +23,4 @@ and any change a person made after it.
 
 Our work here is under the [MIT No Attribution](LICENSE) licence: anyone may use, change, share
 or submit it, for any purpose, without asking us or crediting us. The organisers' code is not
-copied here, except Anthropic's take-home file, which our kernel is written into; each note links
-the organiser's code at the commit we used.
+copied here; each note links the organiser's code at the commit we used.

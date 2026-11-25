@@ -2,7 +2,7 @@
 
 `solve.py` is our entry on the [QEC board](https://www.paradigm.xyz/puzzles/qec): **612 errors in
 240,000 shots**, 2,550 per million (entry `857f6c16-a0c9-417c-a737-e4f5249704e3`, "half-TT +
-BDD"). It took first place on 19 November 2026.
+BDD (rosadelmar)"). It took first place on 19 November 2026.
 
 **How it was made.** It is the best decoder of a run of our system on 9 November
 (`justin-qec-v2`), with its tables repacked as base85 that numpy decodes, so that it passes the
